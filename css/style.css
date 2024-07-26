@@ -1,0 +1,18 @@
+header{
+    height: 100px;
+    background-color: #000;
+}
+
+/*todo altezze contenuti blocchi*/
+.tit-btn{
+    height: 100px;
+}
+.tabella{
+    height: 600px;
+}
+.to-do{
+    height: 250px;
+}
+.faq{
+    height: 250px;
+}
